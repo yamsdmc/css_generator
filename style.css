@@ -1,18 +1,18 @@
-PNG_transparency_demonstration_1{
- background-image: url('image/oui/PNG_transparency_demonstration_1.png');
- width: 800px;
- height: 600px;
+Small-mario{
+ background-image: url('images/Small-mario.png');
+ width: 1473px;
+ height: 1854px;
  background-position:0px, 0px;
 }
 hurricane_1e8e060c71635d9c72b776820991d419{
- background-image: url('image/oui/oui/hurricane_1e8e060c71635d9c72b776820991d419.png');
+ background-image: url('images/image/image/hurricane_1e8e060c71635d9c72b776820991d419.png');
  width: 350px;
  height: 250px;
- background-position:800px, 0px;
+ background-position:1473px, 0px;
 }
-Small-mario{
- background-image: url('image/Small-mario.png');
- width: 1473px;
- height: 1854px;
- background-position:1150px, 0px;
+PNG_transparency_demonstration_1{
+ background-image: url('images/image/PNG_transparency_demonstration_1.png');
+ width: 800px;
+ height: 600px;
+ background-position:1823px, 0px;
 }
